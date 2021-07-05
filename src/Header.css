@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+.header_{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #f0f0f0;
+}
+.logo{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.ul{
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.ul li{
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: lighter;
+}

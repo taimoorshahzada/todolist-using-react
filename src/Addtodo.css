@@ -1,0 +1,13 @@
+input, textarea,h1,button{
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+h1{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+button{
+    padding: 15px;
+}
